@@ -1,1 +1,8 @@
-INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Scottish Fold", 1);
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 3 , "Female", "black", "happy", "true");
