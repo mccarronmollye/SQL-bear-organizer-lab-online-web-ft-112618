@@ -1,6 +1,9 @@
 CREATE TABLE bears (
-  name TEXT,
+  id INTEGER,
+  name TEXT, 
   age INTEGER,
-  breed TEXT, 
-  net_worth INTEGER
-  )
+  gender TEXT,
+  coloe TEXT,
+  temperament TEXT,
+  alive 
+  );
