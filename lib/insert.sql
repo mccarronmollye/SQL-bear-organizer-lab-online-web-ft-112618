@@ -1,1 +1,1 @@
-INSERT INTO cats (name, age, gender, owner_id) VALUES ("Maru", 3 , "Scottish Fold", 1);
+INSERT INTO cats (name, age, gender, color, temperament) VALUES ("Maru", 3 , "Scottish Fold", 1);
